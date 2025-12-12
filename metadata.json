@@ -1,0 +1,5 @@
+{
+  "name": "TurboFlow Manager",
+  "description": "An intelligent system performance dashboard that simulates hardware monitoring and provides real-time advice for optimizing speed, cooling, and memory usage.",
+  "requestFramePermissions": []
+}
